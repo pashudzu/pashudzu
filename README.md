@@ -5,7 +5,7 @@
 🔗How to connect me: my telegram [link](t.me/pashudzu) <br>
 🎮[My gamedev project](https://github.com/pashudzu/UnderTheCoverOfNight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pashudzu&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pashudzu&theme=dark&utcOffset=8)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
