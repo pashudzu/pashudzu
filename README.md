@@ -1,7 +1,7 @@
 ## Hi there my name is Pasha and I software developer.
 🔥I'm interested in gamedev and machine learning. <br>
 👨‍💻 Languages: C++, C#, Java, Python<br>
-🎥I run a [YouTube channel(https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pashudzudev?si=nDEODRP7X3XqsO0J)
+🎥I run a [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pashudzudev?si=nDEODRP7X3XqsO0J)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
