@@ -2,6 +2,7 @@
 🔥I'm interested in gamedev and machine learning. <br>
 👨‍💻 Languages: C++, C#, Java, Python<br>
 🎥I run a [YouTube channel](https://youtube.com/@pashudzudev?si=nDEODRP7X3XqsO0J)
+🔗How to connect me: my telegram [link](t.me/pashudzu)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
