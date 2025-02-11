@@ -1,9 +1,9 @@
-## Hi there my name is Pasha and I software developer.
-🔥I'm interested in gamedev and machine learning. <br>
-👨‍💻 Languages: C++, C#, Java, Python<br>
-🎥I run a [YouTube channel](https://youtube.com/@pashudzudev?si=nDEODRP7X3XqsO0J). <br>
-🔗How to connect me: my telegram [link](t.me/pashudzu) <br>
-🎮[My gamedev project](https://github.com/pashudzu/UnderTheCoverOfNight)
+## Hi there my name is Pasha and I am a software developer.
+🔥 I'm interested in gamedev and machine learning. <br>
+👨‍💻  Languages: C++, C#, Java, Python<br>
+🎥 I run a [YouTube channel](https://youtube.com/@pashudzudev?si=nDEODRP7X3XqsO0J). <br>
+🔗 How to contact me: my telegram [link](t.me/pashudzu) <br>
+🎮 [My gamedev project](https://github.com/pashudzu/UnderTheCoverOfNight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pashudzu&theme=dark&utcOffset=8)
 
