@@ -5,7 +5,7 @@
 🔗 How to contact me: my telegram [link](t.me/pashudzu) <br>
 🎮 [My gamedev project](https://github.com/pashudzu/UnderTheCoverOfNight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pashudzu &repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/pin/?username=pashudzu&repo=github-readme-stats
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
